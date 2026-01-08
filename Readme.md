@@ -33,7 +33,6 @@ Bu proje, Python ile Parçacık Sürü Optimizasyonu (PSO) algoritması kullanar
 ## Dosya Yapısı
 
 - `main.py`: Ana uygulama ve PSO algoritması.
-- `mayda_scraper.py`: Mayda.com'dan veri çekme fonksiyonu.
 - `borsa_scraper.py`: Borsa İstanbul'dan gümüş fiyatı çekme fonksiyonu.
 
 ## Katkı
