@@ -1,0 +1,34 @@
+{
+  "proje_bilgileri": {
+    "ders_adi": "YZ Tabanlı Optimizasyon",
+    "ogretim_uyesi": "Züleyha YILMAZ ACAR",
+    "konu": "Optimizasyon algoritmasıyla bir probleme çözüm bulma",
+    "tur": "Uygulama veya teorik",
+    "teslim_tarihi": "8-9 Ocak 2026",
+    "teslim_sekli": "Yüz yüze; bilgisayardan kodlar ve dijital rapor gösterilecek"
+  },
+  "rapor_gereksinimleri": {
+    "format": "Bildiri formatı (Sempozyum formatı)",
+    "uzunluk": "4 sayfa",
+    "zorunlu_basliklar": [
+      "Özet",
+      "Giriş",
+      "Materyal ve Yöntem",
+      "Deneysel Bulgular",
+      "Sonuç"
+    ]
+  },
+  "kullanilabilecek_algoritmalar": [
+    "En Dik İniş Metodu",
+    "Newton-Raphson Metodu",
+    "PSO (Parçacık Sürü Optimizasyonu) Algoritması",
+    "Yapay Arı Koloni Algoritması (ABC)",
+    "Karınca Koloni Algoritması (ACO)"
+  ],
+  "aksiyon_plani": {
+    "adim_1": "Konu seçimi yapıp Classroom üzerinden hocaya bildirmek",
+    "adim_2": "Gerekirse konu önerisi ve yönlendirme için hocaya mail atmak veya Classroom'dan yazmak",
+    "adim_3": "Bildiri/Sempozyum formatını araştırmak",
+    "adim_4": "4 sayfalık raporu ve uygulama kodlarını hazırlamak"
+  }
+}

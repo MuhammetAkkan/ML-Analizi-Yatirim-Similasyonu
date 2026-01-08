@@ -1,0 +1,34 @@
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+
+# Sanal ortamlar
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# PyCharm proje dosyaları
+.idea/
+
+# Jupyter notebook checkpointleri
+.ipynb_checkpoints
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+*.bak
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Kişisel ayarlar
+*.swp
